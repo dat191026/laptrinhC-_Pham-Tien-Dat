@@ -1,0 +1,14 @@
+D:\c#\Bai2_BieuThuc\bin\Debug\net10.0\BieuThuc.exe
+D:\c#\Bai2_BieuThuc\bin\Debug\net10.0\BieuThuc.deps.json
+D:\c#\Bai2_BieuThuc\bin\Debug\net10.0\BieuThuc.runtimeconfig.json
+D:\c#\Bai2_BieuThuc\bin\Debug\net10.0\BieuThuc.dll
+D:\c#\Bai2_BieuThuc\bin\Debug\net10.0\BieuThuc.pdb
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.AssemblyInfoInputs.cache
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.AssemblyInfo.cs
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.csproj.CoreCompileInputs.cache
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.dll
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\refint\BieuThuc.dll
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.pdb
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\BieuThuc.genruntimeconfig.cache
+D:\c#\Bai2_BieuThuc\obj\Debug\net10.0\ref\BieuThuc.dll
